@@ -1,6 +1,6 @@
 # scrapping_instagram
 scrap instagram dengan Ruby
 
-#Recruitments
+# Recruitments
 watir
 chromedriver
