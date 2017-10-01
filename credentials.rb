@@ -1,2 +1,2 @@
-$username = "akuntamvan1337"
-$password = "apalo,.89"
+$username = "id_instagrammu"
+$password = "password"
